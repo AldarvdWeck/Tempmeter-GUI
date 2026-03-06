@@ -98,8 +98,3 @@ T,21.34,21.40,21.28,21.31
 - Geen data in grafieken:
   - Controleer of de seriele output exact het verwachte formaat heeft.
 
-## Advies voor GitHub publicatie
-
-- Zet deze map in een repository.
-- Maak een release en upload `TemperatuurMonitor.exe` als release-asset.
-- Gebruik versies in tags, bijvoorbeeld `v1.0.0`.
